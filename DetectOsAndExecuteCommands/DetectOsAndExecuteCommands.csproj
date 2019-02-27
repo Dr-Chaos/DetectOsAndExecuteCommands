@@ -10,6 +10,11 @@
 	<RepositoryUrl>https://github.com/Dr-Chaos/DetectOsAndExecuteCommands</RepositoryUrl>
 	<PackageIconUrl>https://github.com/Dr-Chaos/DetectOsAndExecuteCommands/Logo/logo.png</PackageIconUrl>
 	<PackageTags>OS;Command;System;Execute;Detection</PackageTags>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<PackageProjectUrl>https://github.com/Dr-Chaos/DetectOsAndExecuteCommands</PackageProjectUrl>
+	<Description>An easy to use package for detect the OS and use system commands. Visite https://github.com/Dr-Chaos/DetectOsAndExecuteCommands for more details
+</Description>
+	<RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
 </Project>
