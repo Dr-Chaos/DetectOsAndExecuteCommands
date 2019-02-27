@@ -10,16 +10,16 @@ Write on.NET Standard 2.0
 
 Package Manager:
 ```
-Install-Package DetectOsAndExecuteCommands -Version 1.0.0
+Install-Package DetectOsAndExecuteCommands
 ```
 
 .NET CLI:
 ```
-dotnet add package DetectOsAndExecuteCommands --version 1.0.0
+dotnet add package DetectOsAndExecuteCommands
 ```
 
 # How to use
-A simple demo how to use it
+A simple demo how to use it:
 ```
 using System;
 using DetectOsAndExecuteCommands;
