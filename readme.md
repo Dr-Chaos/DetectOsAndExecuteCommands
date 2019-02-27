@@ -1,5 +1,6 @@
 # Presentation
-A NuGet package for detect Operating System and execute system command
+A NuGet package for detect Operating System and execute system commands
+
 Write on.NET Standard 2.0
 
 # How to install
