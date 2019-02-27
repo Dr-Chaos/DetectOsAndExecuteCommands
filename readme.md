@@ -3,7 +3,7 @@ A NuGet package for detect Operating System and execute system commands
 
 Write on.NET Standard 2.0
 
-[Visite the project on nuget.org](https://www.nuget.org/packages/DetectOsAndExecuteCommands/)
+[Visite the project on https://www.nuget.org](https://www.nuget.org/packages/DetectOsAndExecuteCommands/)
 
 
 # How to install
