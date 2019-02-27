@@ -1,5 +1,6 @@
 # Presentation
-An easy to use library for detect Operating System and execute system command. Write un .NET Standard 2.0
+A NuGet package for detect Operating System and execute system command
+Write on.NET Standard 2.0
 
 # How to install
 
