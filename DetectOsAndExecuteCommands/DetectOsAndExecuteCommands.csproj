@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	<Version>1.0.0</Version>
+	<Authors>Dr.Chaos</Authors>
+	<Company>Dr.Chaos</Company>
+	<Title>Detect OS and execute system commands</Title>
+	<PackageDescription>An easy to use package for detect the OS and use system commands. Visite https://github.com/Dr-Chaos/DetectOsAndExecuteCommands for more details</PackageDescription>
+	<RepositoryUrl>https://github.com/Dr-Chaos/DetectOsAndExecuteCommands</RepositoryUrl>
+	<PackageIconUrl>https://github.com/Dr-Chaos/DetectOsAndExecuteCommands/Logo/logo.png</PackageIconUrl>
+	<PackageTags>OS;Command;System;Execute;Detection</PackageTags>
+  </PropertyGroup>
+
+</Project>
